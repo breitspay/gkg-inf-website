@@ -1,7 +1,7 @@
 # Titel Webseite
-
+S Näscht
 Kurzbeschreibung Webseite. Was ist der Inhalt?
-
+Ein selbstwärmendes/selbstkühlendes Bett das über eine App mit dem Handy verbunden ist. So kann man es anstellen wenn man auf dem Weg nach Hause ist. Das Kissen hat einen seperaten Temperaturpegel, denn man auch einstellen kann. So kann man zum Beispiel ein warmes Bett und ein kühles Kissen haben.  
 ## Projektplan
 
 Detaillierte Beschreibung der geplanten Funktionalität.
