@@ -1,4 +1,3 @@
-# Titel Webseite
 S Näscht
 Kurzbeschreibung Webseite. Was ist der Inhalt?
 Ein selbstwärmendes/selbstkühlendes Bett das über eine App mit dem Handy verbunden ist. So kann man es anstellen wenn man auf dem Weg nach Hause ist. Das Kissen hat einen seperaten Temperaturpegel, denn man auch einstellen kann. So kann man zum Beispiel ein warmes Bett und ein kühles Kissen haben.  
@@ -24,13 +23,12 @@ usw...
 
 Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
-| Deadline | Name | Beschreibung |
+| 21.05.2021 | S Näscht | Selbstwärmendes Bett |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
-| 03.01.2021 | Vorname Name | Das wird gemacht |
-| 04.01.2021 | Vorname Name | Das wird gemacht |
-| 05.01.2021 | Vorname Name | Das wird gemacht |
+| 10.05.2021 | Alice Bastert, Leonie Meyer | Skizzen, Banner, evt. Unterseiten erstellen |
+| Auffahrt | Alice Bastert, Leonie Meyer | Home Page, grobes Layout |
+| 17.05.2021 | Vorname Name | fertig & Feinschliff |
+
 
 ## Umsetzung
 

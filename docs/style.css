@@ -1,7 +1,18 @@
 /* Remove the standard margin/padding of the html body */
+.banner{
+    width: 100%;
+    height: 8rem;
+    background-image: url(Logo.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 50%;
+    background-color: white;
+  }
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0rem;
+    padding: 0rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(212, 216, 238);
 }
 
 .menu {
@@ -9,6 +20,8 @@ body {
 }
 
 .page {
+    margin: auto;
+    max-width: 70rem;
 
 }
 
