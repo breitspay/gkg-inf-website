@@ -5,13 +5,7 @@ Ein selbstwärmendes/selbstkühlendes Bett das über eine App mit dem Handy verb
 
 Detaillierte Beschreibung der geplanten Funktionalität.
 
-### Hauptseite
-
-Skizze mit Beschreibung.
-
-### Unterseite 1
-
-Skizze mit Beschreibung.
+![skizzen](skizzen.jpeg)
 
 ### Impressum
 
