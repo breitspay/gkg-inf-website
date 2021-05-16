@@ -11,6 +11,7 @@
 body {
     margin: 0rem;
     padding: 0rem;
+    height: 100%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(212, 216, 238);
 }
@@ -24,7 +25,19 @@ body {
     max-width: 70rem;
 
 }
+.footer {
+    background-color: rgb(255, 255, 255);  
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
 
 .footer {
-
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
 }
