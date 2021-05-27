@@ -26,23 +26,25 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 ## Umsetzung
 
-Detaillierte Beschreibung der umgesetzten Webseite.
+Man erhält Informationen über S'Näscht und über die Funktionalität des Bettes. Ausserdem kann man das Bett auch "bestellen".
 
 ### Hauptseite
 
-Screenshot mit Beschreibung.
+Allgemeine Informationen und Impressum.
 
-### Unterseite 1
+### Funktionalität
 
-Screenshot mit Beschreibung.
+Funktionalität von Matratze, Kissen und App.
 
-### Impressum
+### Bestellung
 
-Screenshot mit Beschreibung.
+Link zu Bestellung und Bilder Matratzenangebot.
 
 usw...
 
 ## Zusammenfassung
+
+Wir haben uns relativ gut an unseren Plan gehalten, Zwieschendurch hat es einige Komplikationen gegeben, die wir dann aber gemeistert haben. Im Verlauf des Erstellens unserer Website sind uns noch einige neue Ideen eingefallen (z.B Aufbau von App und Kissen) welche wir dann hinzugefügt haben. Ein paar Sachen haben wir dann auch wieder verworfen (z.B die verschiedenen Matratzenarten). Von der Zeit her waren wir eigentlich recht gut dran, waren dann aber doch um die Verlängerung sehr froh. 
 
 Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
 
