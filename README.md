@@ -5,7 +5,7 @@ Ein selbstwärmendes/selbstkühlendes Bett das über eine App mit dem Handy verb
 
 Detaillierte Beschreibung der geplanten Funktionalität.
 
-![skizzen](skizzen.jpeg)
+![skizzen](skizzen.png)
 
 ### Impressum
 
@@ -32,15 +32,23 @@ Man erhält Informationen über S'Näscht und über die Funktionalität des Bett
 
 Allgemeine Informationen und Impressum.
 
+![Home](Home.png)
+
 ### Funktionalität
 
 Funktionalität von Matratze, Kissen und App.
+
+![Funktion](Funktion1.png)
+
+![Funktion](Funktion2.png)
+
+![Funktion](Funktion3.png)
 
 ### Bestellung
 
 Link zu Bestellung und Bilder Matratzenangebot.
 
-usw...
+![Bestellung](Bestellung.png)
 
 ## Zusammenfassung
 
@@ -48,22 +56,3 @@ Wir haben uns relativ gut an unseren Plan gehalten, Zwieschendurch hat es einige
 
 Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
 
----
-
-Tipps zum README-Markdown:
-- Eine Liste kann man einfach so schreiben
-- Mit Rechtsklick auf `README.md`, `Open Preview` kann man eine Live-Vorschau des Textes sehen 
-- So schreibt man *kursiv*, **fett** und beides ***fettkursiv***
-- So kann man ein Bild einfügen: ![Bildtext](link-zum-bild.jpg)
-- So kann man einen Link einfügen [Linktext](https://google.com)
-
-So kann `einzeiliger Code` eingefügt werden.
-
-So kann mehrzeiliger Code eingefügt werden.
-```
-.test {
-    background-color: blue;
-}
-```
-
-- Weitere Hilfen gibt es hier: https://guides.github.com/features/mastering-markdown
