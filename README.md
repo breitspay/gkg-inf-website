@@ -10,11 +10,8 @@ Ein selbstwärmendes/selbstkühlendes Bett das über eine App mit dem Handy verb
  Wir wollten auf jeder Unterseite oben einen Banner, welcher unser Logo zeigt. Auch wollten wir den Hintergrund der Links ändern, wenn man mit der Maus darauf kommt.
  Ausserdem haben wir versucht mit mehreren Bildern zu arbeiten, um unser Produkt veranschaulichen zu können.
 
-### Impressum
 
-Skizze mit Beschreibung.
 
-usw...
 
 ## Zeitplan
 
